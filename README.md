@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/b838aurfl6i84i63?svg=true)](https://ci.appveyor.com/project/DmitryKurilenko32/mbank)
+[![Build status](https://ci.appveyor.com/api/projects/status/61n52t94ys23idqe/branch/main?svg=true)](https://ci.appveyor.com/project/DmitryKurilenko32/postmanechotest/branch/main)
